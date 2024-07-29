@@ -3,3 +3,4 @@ duckdb
 matplotlib
 plotly
 seaborn
+streamlit
